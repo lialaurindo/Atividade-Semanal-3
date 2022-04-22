@@ -6,4 +6,4 @@ Nestes exercicios foram utilizadas as estruturas condicionais *switch* e *if/els
 ![](https://i.gifer.com/embedded/download/7LDo.gif)
 
 
-[^]: Essa atividade faz parte do cronograma da semana 2 da Turma On 16 do bootcamp Todas em Tech (Reprograma)
+[^]: Essa atividade faz parte do cronograma da semana 3 da Turma On 16 do bootcamp Todas em Tech (Reprograma)
